@@ -1,3 +1,3 @@
-function clickHandler() {
-  alert("Button clicked!");
+function showMessage() {
+  alert("This is Version 2");
 }
